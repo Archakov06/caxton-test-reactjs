@@ -1,0 +1,76 @@
+{
+  "departments": [
+    {
+      "id": 0,
+      "name": "PDT Administration"
+    },
+    {
+      "id": 1,
+      "name": "Human Resources"
+    },
+    {
+      "id": 2,
+      "name": "Transportation"
+    },
+    {
+      "id": 3,
+      "name": "PDT Marketing"
+    },
+    {
+      "id": 4,
+      "name": "Operations"
+    },
+    {
+      "id": 5,
+      "name": "Inventory"
+    },
+    {
+      "id": 6,
+      "name": "Shipping"
+    }
+  ],
+  "employees": [
+    {
+      "id": 0,
+      "departmentId": 4,
+      "lastName": "Bower",
+      "firstName": "Amon"
+    },
+    {
+      "id": 1,
+      "departmentId": 1,
+      "lastName": "Reyes",
+      "firstName": "Fuller"
+    },
+    {
+      "id": 2,
+      "departmentId": 5,
+      "lastName": "Daniels",
+      "firstName": "Sophie"
+    },
+    {
+      "id": 3,
+      "departmentId": 1,
+      "lastName": "Green",
+      "firstName": "Sheppard"
+    },
+    {
+      "id": 4,
+      "departmentId": 4,
+      "lastName": "Flores",
+      "firstName": "Kristine"
+    },
+    {
+      "id": 5,
+      "departmentId": 3,
+      "lastName": "Pacheco",
+      "firstName": "Porter"
+    },
+    {
+      "id": 6,
+      "departmentId": 2,
+      "lastName": "Hayes",
+      "firstName": "Toni"
+    }
+  ]
+}
